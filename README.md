@@ -1,5 +1,9 @@
 # spring-runner-101-repository
-Spring Runner Lecture Repository
+본 저장소는 개인 강의 학습 후 실습 프로젝트 진행 및 공부 내용 기록용 저장소입니다.
+
+### 목표
+1) 스프링 프레임워크를 이용하여, 비즈니스 애플리케이션을 유연하고 확장성 있게 설계하는 방법을 배운다.
+2) 스프링 프레임워크의 객체지향적 특징을 정확히 이해하고, 내부 동작을 팡가한다.
 
 ### 강의정보
 - [스프링러너의 스프링 아카데미 : Spring을 활용한 유연한 백엔드 개발 트레이닝](https://fastcampus.co.kr/dev_academy_springrunner101)
